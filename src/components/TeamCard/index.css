@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.lol {
+  display: flex;
+  justify-content: space-between;
+  background-color: #4f5db0;
+  border: 2px solid white;
+  padding: 10px;
+}
+img{
+    height:30px;
+    width:30px;
+}

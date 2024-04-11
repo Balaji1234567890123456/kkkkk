@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.pop {
+  display: flex;
+  flex-direction: column;
+  background-color: #1e293b;
+}
+h1 {
+  color: white;
+}
+p {
+  color: white;
+}
+img {
+  height: 300px;
+  width: 300px;
+}

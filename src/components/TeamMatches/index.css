@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.polio {
+  display: flex;
+  flex-direction: column;
+}
+.img{
+    height:300px;
+    width:80vw;
+}

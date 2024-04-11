@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.piccha {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+.lolly {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin: 30px;
+}
+.ji {
+  height: 300px;
+  width: 300px;
+}
+h1 {
+  color: white;
+}
+p {
+  color: white;
+}
